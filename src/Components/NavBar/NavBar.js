@@ -1,15 +1,17 @@
-import './NavBar.css'
+import React from 'react';
+import './NavBar.css';
 
 function NavBar(){
     return(
-        <div className='navbar'>
-            <h1>Logo</h1>
-            <h1>Hello</h1>
-            <h1>Landing</h1>
-            <h1>About Me</h1>
-            <h1>Resume</h1>
-            <h1>Projects</h1>
-            <h1>Contact</h1>
+        <div className='navBar'>
+            <a href='/'>Logo</a>
+            <a href='/'>Hello</a>
+            <a href='/'>Landing</a>
+            <a href='/'>About Me</a>
+            <a href='/'>Resume</a>
+            <a href='/'>Projects</a>
+            <a href='/'>Contact</a>
+        </div>
     )
 }
 export default NavBar;
