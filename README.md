@@ -14,7 +14,8 @@
 * ensure to have strong CTA
 
 ## Tasks
-* [✅]create app with `create-react-app`
+* [✅] create app with `create-react-app`
+* [✅] push up to github
 * [❌] create nav
 * [❌] utilize react-router
 * [❌] create landing page
