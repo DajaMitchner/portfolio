@@ -1,9 +1,10 @@
 # D'aja's Portfolio
 
 # Getting Started:
-* git clone `FILL IN THIS URL`
+* git clone `https://github.com/DajaMitchner/portfolio.git`
 * cd `portfolio`
 * `npm i`
+* `npm start`
 
 
 ## Project Goals:
