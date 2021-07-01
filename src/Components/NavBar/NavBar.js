@@ -6,8 +6,7 @@ function NavBar(){
     return(
         <div className='navBar'>
             <Link to='/'>DM</Link>
-            <Link to='/'>Hello</Link>
-            <Link to='/'>Landing</Link>
+            <Link to='/'>Home</Link>
             <Link to='/'>About</Link>
             <Link to='/'>Resume</Link>
             <Link to='/'>Projects</Link>
